@@ -1,2 +1,12 @@
 # testing-123
-Oliver project repository for 14bce192-aa20-468c-8300-7f0fc449f2cf
+
+Oliver project repository.
+
+## Folder Structure
+
+- `repository/workflow-analysis/`
+- `repository/business-case/`
+- `repository/ai-opportunity-assessment/`
+- `repository/functional-prototype/`
+- `repository/technical-specifications/`
+- `repository/meeting-notes/`
